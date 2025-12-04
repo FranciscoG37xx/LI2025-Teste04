@@ -1,0 +1,160 @@
+    1  pwd
+    2  vi teste.txt
+    3  ls
+    4  exit
+    5  sudo apt update
+    6  sudo apt upgrade -y
+    7  sudo apt install apache2 -y
+    8  sudo systemctl status apache2
+    9  sudo systemctl enable apache2
+   10  netstat -ant
+   11  cd /var/www/html
+   12  git
+   13  git clone https://github.com/FranciscoG37xx/oMeuProjetoHtml.git
+   14  sudo git clone https://github.com/FranciscoG37xx/oMeuProjetoHtml.git
+   15  ls -all
+   16  cd oMeuProjetoHtml/
+   17  ls
+   18  clear
+   19  a
+   20  clear
+   21  ls
+   22  clear
+   23  git clone https://github.com/FranciscoG37xx/LI2025-Teste03.git
+   24  ls
+   25  cd LI2025-Teste03
+   26  mkdir A132667
+   27  cd A132667
+   28  echo "Teste de LI 2025/2026" > README.md
+   29  ls
+   30  cd..
+   31  cd ..
+   32  git add.
+   33  git add .
+   34  git commit -m "2ª tarefa concluída"
+   35  git push origin main
+   36  git config --global --edit
+   37  git commit --amend --reset-author
+   38  git push origin main
+   39  git commit --amend --reset-author
+   40  git push origin main
+   41  git push origin maingit 
+   42  git add .
+   43  git commit -m "2ª tarefa concluída"
+   44  git push origin maingit 
+   45  git push origin main
+   46  clear
+   47  cd ..
+   48  cd users
+   49  cd Documentos
+   50  cd desktop
+   51  ls
+   52  cd LI2025-Teste03
+   53  ls
+   54  exit
+   55  ls
+   56  cd ..
+   57  cd LI2025-Teste03/
+   58  ls
+   59  git pull origin main
+   60  ls
+   61  cp index.html disciplinas.html
+   62  ls
+   63  git add .
+   64  git commit -m "5ª tarefa cumprida"
+   65  git push origin main
+   66  git commit --ammend
+   67  git commit --amend
+   68  git push origin main
+   69  clear
+   70  git pull origin main
+   71  clear
+   72  history > meusComandosAzure.txt
+   73  cat meusComandosAzure.txt
+   74  git add .
+   75  git commit -m "history azure"
+   76  git push origin main
+   77  exit
+   78  git clone https://github.com/FranciscoG37xx/LI2025-Teste03.git
+   79  exit
+   80  git clone https://github.com/FranciscoG37xx/LI2025-Teste03_Final.git
+   81  nano index.html
+   82  ls
+   83  git clone https://github.com/FranciscoG37xx/LI2025-Teste03_Final.git
+   84  cd ..
+   85  cd desktop
+   86  cd LI2025-Teste03_Final
+   87  rem index.html
+   88  rm index.html
+   89  ls
+   90  git add .
+   91  git commit -m "3ª tarefa concluída"
+   92  git push origin main
+   93  ls
+   94  cd ..
+   95  cd LI2025-Teste03_Final
+   96  git pull origin main
+   97  ls
+   98  cd A132667/
+   99  ls
+  100  cd ..
+  101  git add.
+  102  git add .
+  103  git commit -m "4ª tarefa"
+  104  git push origin main
+  105  git pull origin main
+  106  cp index.html disciplinas.html
+  107  cd A132667/
+  108  ls
+  109  cp index.html disciplinas.html
+  110  git add .
+  111  git commit -m "5ª tarefa cumprida"
+  112  git reset --soft HEAD~
+  113  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  114  git push origin main
+  115  git pull origin main
+  116  cd..
+  117  cd ..
+  118  git pull origin main
+  119  cd ..
+  120  git pull origin main
+  121  cd LI2025-Teste03_Final
+  122  git add .
+  123  git commit -m "5ª tarefa cumprida"
+  124  git push origin main
+  125  cd ..
+  126  cd LI2025-Teste03_Final
+  127  git pull origin main
+  128  history > meusComandosAzure.txt
+  129  cat meusComandosAzure.txt 
+  130  git add .
+  131  git commit -m "history azure"
+  132  git push origin main
+  133  exit
+  134  cd desktop
+  135  cd Desktop
+  136  ls
+  137  cd LI2025-Teste03
+  138  ls
+  139  cd ..
+  140  cd LI2025-Teste03_Final/
+  141  ls
+  142  cd ..
+  143  mkdir LI2025-Teste04
+  144  cd LI2025-Teste04
+  145  git clone https://github.com/FranciscoG37xx/LI2025-Teste04.git
+  146  ls
+  147  cd LI2025-Teste04/
+  148  mkdir js
+  149  mkdir css
+  150  ls
+  151  cd js
+  152  echo "//ficheiro de script" > script.js
+  153  ls
+  154  cd../css
+  155  cd.. /css
+  156  cd ../css
+  157  touch style.css
+  158  ls
+  159  cd ..
+  160  history > cmdsTarefa2.txt.
