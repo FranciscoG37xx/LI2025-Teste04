@@ -1,0 +1,23 @@
+cd Documents
+ls
+cd Github
+ git clone https://github.com/FranciscoG37xx/LI2025-Teste04.git
+ cd LI2025-Teste04
+ls
+git add index.html
+ git commit -m "3ª Tarefa Concluida"
+ git push origin main
+ mkdir js css
+ls
+ cd js
+ echo "//ficheiro de script" > script.js
+ cd ../css
+ touch style.css
+touch style.css
+ cp+ style.css
+cp style.css
+ type nul >style.css
+ls
+ cd ..
+history > cmdsTarefa2.txt
+ doskey /history > cmdsTarefa2.txt
